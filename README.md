@@ -20,5 +20,5 @@
 <br><br>
 
 ## Tips
-- Encoding
+* [Encoding](https://github.com/mosiccan/TIL/blob/main/Tips/encoding.md)
 <br><br>
