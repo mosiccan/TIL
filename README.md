@@ -20,5 +20,5 @@
 <br><br>
 
 ## Tips
-* [Encoding](https://github.com/mosiccan/TIL/blob/main/Tips/encoding.md)
+* [인코딩 시 한글깨짐](https://github.com/mosiccan/TIL/blob/main/Tips/encoding.md)
 <br><br>
