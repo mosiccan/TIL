@@ -1,35 +1,37 @@
 # Encoding
 
-## ÀÎÄÚµù °ü·Ã
-°¢Á¾ IDE³ª ÇÁ·Î±×·¥ µµ±¸µéÀ» »ç¿ëÇÒ ¶§ ÀÎÄÚµù ¹®Á¦·Î ÇÑ±ÛÀÌ ±úÁö´Â °æ¿ì°¡ ÀÖ½À´Ï´Ù.  
-ÇÑ±ÛÀÇ °æ¿ì ´ëÇ¥ÀûÀ¸·Î UTF-8, euc-kr, CP949 ¹æ½ÄÀ¸·Î ÀÎÄÚµù µÇ´Âµ¥ °¢ ¹æ½Ä°£ÀÇ È£È¯ÀÌ Á¦´ë·Î ÀÌ·ç¾îÁöÁö ¾Ê¾Æ ±ÛÀÚ ±úÁüÀÌ ¹ß»ýÇÕ´Ï´Ù. 
+## ì¸ì½”ë”© ê´€ë ¨
+ê°ì¢… IDEë‚˜ í”„ë¡œê·¸ëž¨ ë„êµ¬ë“¤ì„ ì‚¬ìš©í•  ë•Œ ì¸ì½”ë”© ë¬¸ì œë¡œ í•œê¸€ì´ ê¹¨ì§€ëŠ” ê²½ìš°ê°€ ìžˆìŠµë‹ˆë‹¤.  
+í•œê¸€ì˜ ê²½ìš° ëŒ€í‘œì ìœ¼ë¡œ UTF-8, euc-kr, CP949 ë°©ì‹ìœ¼ë¡œ ì¸ì½”ë”© ë˜ëŠ”ë° ê° ë°©ì‹ê°„ì˜ í˜¸í™˜ì´ ì œëŒ€ë¡œ ì´ë£¨ì–´ì§€ì§€ ì•Šì•„ ê¸€ìž ê¹¨ì§ì´ ë°œìƒí•©ë‹ˆë‹¤. 
 
-## ¹®Á¦ ¹ß»ý
-GUI¸¦ »ç¿ëÇÏ¿© Á÷°üÀûÀÌ°í Æí¸®ÇÏ°Ô ¹öÀü °ü¸®¸¦ ÇÒ ¼ö ÀÖ¾î ¼Ò½ºÆ®¸®¸¦ »ç¿ëÁßÀÔ´Ï´Ù.  
-Áö±Ý±îÁö °úÁ¦³ª ±âÅ¸ ÄÚµåµéÀ» ¼Ò½ºÆ®¸®¸¦ ÀÌ¿ëÇÏ¿© ¹öÀü °ü¸®¸¦ ÇØ¿Ô´Âµ¥ TILÀ» ÁøÇàÁß ¼Ò½ºÆ®¸®·Î Ä¿¹ÔµÇ´Â °á°ú¸¦ º¸´Ï ÇÑ±ÛÀÌ ±úÁ®³ª¿À´Â ¿À·ù°¡ ÀÖ¾ú½À´Ï´Ù.  
+## ë¬¸ì œ ë°œìƒ
+GUIë¥¼ ì‚¬ìš©í•˜ì—¬ ì§ê´€ì ì´ê³  íŽ¸ë¦¬í•˜ê²Œ ë²„ì „ ê´€ë¦¬ë¥¼ í•  ìˆ˜ ìžˆì–´ ì†ŒìŠ¤íŠ¸ë¦¬ë¥¼ ì‚¬ìš©ì¤‘ìž…ë‹ˆë‹¤.  
+ì§€ê¸ˆê¹Œì§€ ê³¼ì œë‚˜ ê¸°íƒ€ ì½”ë“œë“¤ì„ ì†ŒìŠ¤íŠ¸ë¦¬ë¥¼ ì´ìš©í•˜ì—¬ ë²„ì „ ê´€ë¦¬ë¥¼ í•´ì™”ëŠ”ë° TILì„ ì§„í–‰ì¤‘ ì†ŒìŠ¤íŠ¸ë¦¬ë¡œ ì»¤ë°‹ë˜ëŠ” ê²°ê³¼ë¥¼ ë³´ë‹ˆ í•œê¸€ì´ ê¹¨ì ¸ë‚˜ì˜¤ëŠ” ì˜¤ë¥˜ê°€ ìžˆì—ˆìŠµë‹ˆë‹¤.  
 
-## Á¶°Ç ºÐ¼®
-- CP949¸¦ ±âº» ÀÎÄÚµù ¹æ½ÄÀ¸·Î »ç¿ëÇÏ´Â VisualStudio
-- À¥»ó(±êÇãºê ³» ¼öÁ¤)¿¡¼­ mdÆÄÀÏÀº UTF-8 ¹æ½ÄÀ¸·Î ÀÎÄÚµùµÊ
-- VSCode¿Í ¼Ò½ºÆ®¸®´Â´Â ÀÎÄÚµù ¹æ½ÄÀ» ÁöÁ¤ÇÒ ¼ö ÀÖÀ½ (UTF-8°ú euc-kr(CP949))
+## ì¡°ê±´ ë¶„ì„
+- CP949ë¥¼ ê¸°ë³¸ ì¸ì½”ë”© ë°©ì‹ìœ¼ë¡œ ì‚¬ìš©í•˜ëŠ” VisualStudio
+- ì›¹ìƒ(ê¹ƒí—ˆë¸Œ ë‚´ ìˆ˜ì •)ì—ì„œ mdíŒŒì¼ì€ UTF-8 ë°©ì‹ìœ¼ë¡œ ì¸ì½”ë”©ë¨
+- VSCodeì™€ ì†ŒìŠ¤íŠ¸ë¦¬ëŠ”ëŠ” ì¸ì½”ë”© ë°©ì‹ì„ ì§€ì •í•  ìˆ˜ ìžˆìŒ (UTF-8ê³¼ euc-kr(CP949))
 
-## ÇØ°á ¹æ¾È
-- VisualStudioÀÇ ¸ðµç ÆÄÀÏÀ» UTF-8·Î ÁöÁ¤ÇØÁØ´Ù. (±×·¸´ÙÇØµµ ±âÁ¸ÀÇ Ä¿¹Ô ±â·Ï³» ÇÑ±ÛÀº ±úÁü)
-- °á·ÐÀûÀ¸·Ð UTF-8·Î ÅëÀÏÇÏ´Â°Ô °¡Àå º£½ºÆ®!
+## í•´ê²° ë°©ì•ˆ
+- VisualStudioì˜ ëª¨ë“  íŒŒì¼ì„ UTF-8ë¡œ ì§€ì •í•´ì¤€ë‹¤. (ê·¸ë ‡ë‹¤í•´ë„ ê¸°ì¡´ì˜ ì»¤ë°‹ ê¸°ë¡ë‚´ í•œê¸€ì€ ê¹¨ì§)
+- ê²°ë¡ ì ìœ¼ë¡  UTF-8ë¡œ í†µì¼í•˜ëŠ”ê²Œ ê°€ìž¥ ë² ìŠ¤íŠ¸!
 
-## ÇöÀç Àû¿ëÇÑ ¹æ½Ä
-- ¼Ò½ºÆ®¸® "µµ±¸-¿É¼Ç-±âº» ÅØ½ºÆ® ÀÎÄÚµù"À» UTF-8·Î ÁöÁ¤
-- ¼Ò½ºÆ®¸®ÀÇ c++ °ü·Ã ¸®Æ÷ÁöÅä¸®ÀÇ config ÆÄÀÏ¿¡ ¾Æ·¡ ÄÚµå¸¦ Ãß°¡
+## í˜„ìž¬ ì ìš©í•œ ë°©ì‹
+- ì†ŒìŠ¤íŠ¸ë¦¬ "ë„êµ¬-ì˜µì…˜-ê¸°ë³¸ í…ìŠ¤íŠ¸ ì¸ì½”ë”©"ì„ UTF-8ë¡œ ì§€ì •
+- ì†ŒìŠ¤íŠ¸ë¦¬ì˜ c++ ê´€ë ¨ ë¦¬í¬ì§€í† ë¦¬ì˜ config íŒŒì¼ì— ì•„ëž˜ ì½”ë“œë¥¼ ì¶”ê°€
 ```
 [i18n]
 	logOutputEncoding = UTF-8
 	commitEncoding = UTF-8
 ```
-- VisualStudio¿¡ "Force UTF (No BOM)"À» ¼³Ä¡
+- VisualStudioì— "Force UTF (No BOM)"ì„ ì„¤ì¹˜
 
-## °á°ú
-- ±âÁ¸ÀÇ Ä¿¹Ô ³»¿ªµéÀº ±úÁöÁö¸¸ ¾ÕÀ¸·Î Ä¿¹ÔÇÒ ÆÄÀÏµéÀ» ¸ðµÎ Á¤»óÀ¸·Î ³ª¿É´Ï´Ù.
+## ê²°ê³¼
+- ê¸°ì¡´ì˜ ì»¤ë°‹ ë‚´ì—­ë“¤ì€ ê¹¨ì§€ì§€ë§Œ ì•žìœ¼ë¡œ ì»¤ë°‹í•  íŒŒì¼ë“¤ì„ ëª¨ë‘ ì •ìƒìœ¼ë¡œ ë‚˜ì˜µë‹ˆë‹¤.
 
-## ´Ù½Ã ¿À·ù
-TILÀÇ mdÆÄÀÏ ¸®Æ÷ÁöÅä¸®¿¡¼­ ´Ù½Ã ±úÁü Çö»óÀÌ ÀÏ¾î³µ½À´Ï´Ù.  
-- ´Ù½Ã euc-kr·Î ¹Ù²Û ÈÄ VSCode¿¡¼± setting¿¡¼­ Auto Guess EncodingÀ» È°¼ºÈ­ÇÏ¿© VSCode³»¿¡¼­ ±úÁü Çö»óÀ» ¾ø¾Ý½À´Ï´Ù.
+## ë‹¤ì‹œ ì˜¤ë¥˜
+TILì˜ mdíŒŒì¼ ë¦¬í¬ì§€í† ë¦¬ì—ì„œ ë‹¤ì‹œ ê¹¨ì§ í˜„ìƒì´ ì¼ì–´ë‚¬ìŠµë‹ˆë‹¤.  
+- ë‹¤ì‹œ euc-krë¡œ ë°”ê¾¼ í›„ VSCodeì—ì„  settingì—ì„œ Auto Guess Encodingì„ í™œì„±í™”í•˜ì—¬ VSCodeë‚´ì—ì„œ ê¹¨ì§ í˜„ìƒì„ ì—†ì•´ìŠµë‹ˆë‹¤.
+- ê¹ƒí—ˆë¸Œ ë‚´ íŽ¸ì§‘ê¸°ë¡œ ìˆ˜ì • ì‹œ ì•„ëž˜ì™€ ê°™ì€ ê²½ê³  ë¬¸êµ¬ê°€ ëœ¹ë‹ˆë‹¤.
+- "Weâ€™ve detected the file encoding as EUC-KR. When you commit changes we will transcode it to UTF-8."
