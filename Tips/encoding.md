@@ -15,9 +15,10 @@ GUI를 사용하여 직관적이고 편리하게 버전 관리를 할 수 있어
 
 ## 해결 방안
 - VisualStudio의 모든 파일을 UTF-8로 지정해준다. (그렇다해도 기존의 커밋 기록내 한글은 깨짐)
+	- 이를 위해 기존의 CP949 인코딩 방식으로 저장되던 파일들을 UTF-8로 바꿔줘야함
 - 결론적으론 UTF-8로 통일하는게 가장 베스트!
 
-## 현재 적용한 방식
+## 1차 적용 방식
 - 소스트리 "도구-옵션-기본 텍스트 인코딩"을 UTF-8로 지정
 - 소스트리의 c++ 관련 리포지토리의 config 파일에 아래 코드를 추가
 ```
@@ -33,10 +34,10 @@ GUI를 사용하여 직관적이고 편리하게 버전 관리를 할 수 있어
 ## 다시 오류
 TIL의 md파일 리포지토리에서 다시 깨짐 현상이 일어났습니다.  
 - 다시 euc-kr로 바꾼 후 VSCode에선 setting에서 Auto Guess Encoding을 활성화하여 VSCode내에서 깨짐 현상을 없앴습니다.
-- 깃허브 내 편집기로 수정 시 아래와 같은 경고 문구가 뜹니다.
+- 하지만 깃허브 내 편집기로 수정 시 아래와 같은 경고 문구가 뜹니다.
 - "We’ve detected the file encoding as EUC-KR. When you commit changes we will transcode it to UTF-8."
 - 역시 소스트리에서 pull을 해보니 깃허브 내에서 수정한 부분은 한글이 깨집니다.
-- 결론은 utf-8로 어떻게든 통일을 시켜야합니다.
+- 결론은 어떻게든 utf-8로 통일을 시켜야합니다.
 
 ## 최종 결과 및 세팅
 + 최종 결과
@@ -64,3 +65,8 @@ TIL의 md파일 리포지토리에서 다시 깨짐 현상이 일어났습니다
 		+ Encodig : UTF-8
 	+ VisualStudio 
 		+ 기본 세팅
+		+ 확장 프로그램 [**Force UTF-8(No BOM)**](https://marketplace.visualstudio.com/items?itemName=1ndrew100.forceUTF8NoBOM) 설치 
+
+## 참고자료
+- [[Sourcetree] History 한글 깨짐 현상 수정](https://smoh.tistory.com/346)
+- [한글 인코딩의 이해 1편: 한글 인코딩의 역사와 유니코드](https://d2.naver.com/helloworld/19187)
