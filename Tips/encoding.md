@@ -37,3 +37,29 @@ TIL의 md파일 리포지토리에서 다시 깨짐 현상이 일어났습니다
 - "We’ve detected the file encoding as EUC-KR. When you commit changes we will transcode it to UTF-8."
 - 역시 소스트리에서 pull을 해보니 깃허브 내에서 수정한 부분은 한글이 깨집니다.
 - 결론은 utf-8로 어떻게든 통일을 시켜야합니다.
+
+## 최종 결과 및 세팅
++ 최종 결과
+	+ 기존의 cpp 및 헤더파일 들의 SourceTree 내의 History는 한글이 깨짐 
+	+ 새로 커밋하는 것들 부터는 잘 나타남
+	+ md 파일들도 잘 나옴
++ 세팅
+	+ SourceTree
+		+ 언어 : 한국어
+		+ 기본 텍스트 인코딩 : UTF-8
+		+ cpp 파일 위주 리포지토리 config 파일에 추가한 항목
+		```
+		[i18n]
+			logOutputEncoding = UTF-8
+			commitEncoding = UTF-8
+		```
+		+ md 파일 위주 리포지토리 config 파일에 추가한 항목
+		```
+		[i18n]
+			logOutputEncoding = UTF-8
+			commitEncoding = UTF-8
+		```
+	+ VSCode
+		+ Encodig : UTF-8
+	+ VisualStudio 
+		+ 기본 세팅
