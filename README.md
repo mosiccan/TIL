@@ -17,10 +17,11 @@
 
 ## Version Control System
 - Source Tree
-- Git
+    - 
 
 <br><br>
 
 ## Tips
-* [인코딩 시 한글깨짐](https://github.com/mosiccan/TIL/blob/main/Tips/encoding.md)
+- 인코딩 관련
+    * [인코딩 시 한글깨짐](https://github.com/mosiccan/TIL/blob/main/Tips/encoding.md)
 <br><br>
