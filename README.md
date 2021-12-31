@@ -1,7 +1,9 @@
 # TIL
 >Today I Learned  
 >오늘 공부한 거 혹은 새롭게 알게 된 것들, 소소한 팁들 정리
-<br>
+  
+To do
+- GIT2 - SourceTree 버전관리 - 10. 비교 ~
 
 ## C++
 - 
