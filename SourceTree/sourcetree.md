@@ -1,9 +1,22 @@
 # SourceTree
 > *상황별 이미지 설명을 추가할 예정입니다.
-## 소스트리
-(2021/12/29) 지금까지는 소스트리 사용시 다시 이전 문서로 되돌리고 싶을 때 그냥 문서 내에서 해당 부분을 지우고 다시 커밋을 반복하였습니다.  
-최근들어 효율성 등을 생각해보니 너무나 불필요한 커밋들의 낭비가 아닌가 싶었습니다.  
-생활코딩님의 git 시리즈를 정주행 하며 기본 개념을 다시 정리하고자 하였습니다.
+
+## 목차
+- 개요
+- 
+- reset
+- revert
+  
+## 개요
+리눅스를 배우기 전, CLI에 익숙하지 않았을 때 깃허브를 접하게 되었습니다.  
+그러면서 커밋을 하는 방법이나 기록을 하기 위한 도구로 더 직관적인 건 없을까 하고 접했던 것이 바로 소스트리 입니다.  
+(2021/12/29) 지금까지는 소스트리를 사용하며 다시 이전 문서로 되돌리고 싶을 때 그냥 문서 내에서 해당 부분을 지우고 다시 커밋을 반복하였습니다.  
+효율성 등을 생각해보니 너무나 불필요한 커밋들의 낭비가 아닌가 싶었습니다.  
+<u>생활코딩님의 GIT SourceTree 시리즈</u>를 정주행 하며 필요한 부분 개념을 다시 정리하고자 하였습니다!
+
+- [GIT2 - SourceTree 버전관리편](https://www.youtube.com/watch?v=VeQDmXjbHtQ&list=PLuHgQVnccGMCejd1l8C8oyZSYQDtkMRAg)
+- [GIT3 - SourceTree 브랜치 & 충돌](https://www.youtube.com/watch?v=FB1se6hEYx8&list=PLuHgQVnccGMCWlMygyYg9XjCIjESUbW4b)
+- [GIT4 - SourceTree 협업](https://www.youtube.com/watch?v=v8niKCVmUXs&list=PLuHgQVnccGMCeAdpRidv18VRVS8mqzFdS)
 
 ## reset
 - 이 커밋까지 현재 브랜치를 초기화
