@@ -31,6 +31,10 @@ To do
 ## Tips
 - 인코딩 관련
     * [인코딩 시 한글깨짐](https://github.com/mosiccan/TIL/blob/main/Tips/encoding.md)
+
 - .gitignore
-  - [.gitignore 추가하기]
-  - [간단하게 생성해주는 사이트](https://www.toptal.com/developers/gitignore) 
+  - [.gitignore 추가하기](https://github.com/mosiccan/TIL/blob/main/Tips/gitignore.md)
+
+- 개발에 도움이 되는 사이트들
+  - [.gitignore 파일 생성](https://www.toptal.com/developers/gitignore) 
+  
