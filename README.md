@@ -35,6 +35,6 @@ To do
 - .gitignore
   - [.gitignore 추가하기](https://github.com/mosiccan/TIL/blob/main/Tips/gitignore.md)
 
-- 개발에 도움이 되는 사이트들
+## 개발에 도움이 되는 사이트들
   - [.gitignore 파일 생성](https://www.toptal.com/developers/gitignore) 
   
