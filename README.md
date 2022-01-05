@@ -37,6 +37,7 @@ To do
 
 <br><br> 
 
-## 개발에 도움이 되는 사이트들
+## 도움이 되는 사이트 및 프로그램
   - [.gitignore 파일 생성](https://www.toptal.com/developers/gitignore) 
+  - Velog
   
