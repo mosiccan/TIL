@@ -73,3 +73,6 @@
 
     # End of https://www.toptal.com/developers/gitignore/api/c++
     ```
+    
+    + 2022/01/10 비주얼스튜디오 사용시 메인 언어 선택과 동시에 VisualStudio도 추가해주자.
+    > C++만 추가했더니 VisualStudio 파일들도 같이 커밋되면서 용량이 커져 오류 발생!
