@@ -38,9 +38,14 @@ To do
 <br><br> 
 
 ## 도움이 되는 사이트 및 프로그램
+  사이트
   - [.gitignore 파일 생성](https://www.toptal.com/developers/gitignore) 
   - [Velog](https://velog.io/)
     - 개발 블로그
   - [서핏](https://www.surfit.io/)
     - IT 직군 읽으면 좋은 글들
+    
+  프로그램
+  - [PowerToys](https://github.com/microsoft/PowerToys/releases/tag/v0.53.3) 
+    - MS에서 만든 유틸리티 툴 (색상 추출, 파일이름 대량 변경 등의 기능)
   
