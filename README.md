@@ -26,6 +26,7 @@ To do
 <br><br>
 
 ## Python
+- Jupyter Notebook
 - 
 <br><br>
 
