@@ -27,7 +27,7 @@ To do
 
 ## Python
 - Jupyter Notebook
-- 
+- Pandas
 <br><br>
 
 ## Version Control System
