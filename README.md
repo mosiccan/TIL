@@ -30,6 +30,9 @@ To do
 - Pandas
 <br><br>
 
+## Mac
+- 개발하면서 설치한 앱 
+
 ## Version Control System
 - Source Tree
 
