@@ -6,8 +6,7 @@ To do
 - GIT2 - SourceTree 버전관리 - 10. 비교 ~
 - 워들 만들어보기
 - 영어 팬그램 생성기 만들어보기
-- 테니스 스코어 시스템 만들어보기
-  
+- 테니스 스코어 시스템 만들어보기  
 
 ## C++
 - 벡터 원소마다 텍스트와 위치 넣기 (슈팅게임)
@@ -23,6 +22,7 @@ To do
 - DFS
 - BFS
 - DP
+- 브루트포스 
 <br><br>
 
 ## Python
@@ -31,7 +31,7 @@ To do
 <br><br>
 
 ## Mac
-- 개발하면서 설치한 앱 
+- [Mac으로 개발하면서 설치한 앱](https://github.com/mosiccan/TIL/blob/main/Mac/mac.md#%EA%B0%9C%EB%B0%9C%EC%9E%90-mac-%EC%84%A4%EC%B9%98-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8) 
 
 ## Version Control System
 - Source Tree
@@ -48,6 +48,10 @@ To do
 <br><br> 
 
 ## 도움이 되는 사이트 및 프로그램
+  혼자 공부하기
+  - [인프런](https://www.inflearn.com/)
+    - IT분야에 있어 거의 모든 강의가 있는 사이트  
+  
   사이트
   - [.gitignore 파일 생성](https://www.toptal.com/developers/gitignore) 
   - [Velog](https://velog.io/)
@@ -64,3 +68,7 @@ To do
     - 바탕화면에 달력 띄어놓는 프로그램
   - [Figma](https://www.figma.com/)
     - 무료 디자인 툴 (웹 작업, 동시 작업 가능)
+
+  블로그  
+  - [pxdstory](https://pxdstory.tistory.com/)
+    - UX/UI 분야에 대한 글을 작성하시는 블로그  
