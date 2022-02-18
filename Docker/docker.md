@@ -8,7 +8,7 @@
 - Windows
   - [Docker Desktop for Windows](https://docs.docker.com/desktop/windows/install/) 설치 
   - WSL2 활성화
-    - > Windows 환경에서도 Linux를 이용할 수 있고 Docker를 사용할 수 있다.
+    > Windows 환경에서도 Linux를 이용할 수 있고 Docker를 사용할 수 있다.
     1. Powershell 관리자 권한으로 실행하여 ```wsl --install``` 작성
     2. ```dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart``` 입력 (Windows 옵션 활성화)
     3. ```dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /norestart``` 입력 후 재부팅 (가상머신 기능 활성화)
