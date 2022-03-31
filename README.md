@@ -38,6 +38,13 @@ To do
 - 그래프
 <br><br>
 
+## Network
+- OSI 7 Layer
+- TCP/IP
+- 패킷 전달 과정 
+
+<br><br>
+
 ## Python
 - Jupyter Notebook
 - Pandas
