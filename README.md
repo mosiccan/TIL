@@ -7,7 +7,8 @@ To do
 - 워들 만들어보기
 - 영어 팬그램 생성기 만들어보기
 - 웹사이트 스크롤 캡쳐 시 잘리거나 온전하게 나오지 않는 등 각종 버그 발생 원인 찾고 해결책   
-
+<br><br>
+ 
 ## C++
 - 벡터 원소마다 텍스트와 위치 넣기 (슈팅게임)
 
@@ -86,6 +87,8 @@ To do
     - 개발 블로그
   - [서핏](https://www.surfit.io/)
     - IT 직군 읽으면 좋은 글들
+  - [Medium](https://medium.com/)
+    - 온라인 출판 플랫폼으로 디자인 관련 분야 글이 많음 
     
   프로그램
   - [PowerToys](https://github.com/microsoft/PowerToys/releases/tag/v0.53.3) 
